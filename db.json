@@ -1,0 +1,76 @@
+{
+  "students": [
+    {
+      "fname": "Kobe",
+      "lname": "Bryant",
+      "sex": "Male",
+      "age": 45,
+      "enrolled": true,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "fname": "Michael",
+      "lname": "Jordan",
+      "sex": "Male",
+      "age": 53,
+      "enrolled": true
+    },
+    {
+      "id": 3,
+      "fname": "Candice",
+      "lname": "Parker",
+      "sex": "Female",
+      "age": 35,
+      "enrolled": false
+    },
+    {
+      "fname": "Ryan",
+      "lname": "Galendez",
+      "sex": "Male",
+      "age": 30,
+      "enrolled": false,
+      "id": 861
+    },
+    {
+      "id": 533,
+      "fname": "Lebron ",
+      "lname": "James",
+      "sex": "Female",
+      "age": 35,
+      "enrolled": "true"
+    },
+    {
+      "id": 357,
+      "fname": "Ivy Rose",
+      "lname": "Luntad",
+      "sex": "Female",
+      "age": 28,
+      "enrolled": false
+    },
+    {
+      "fname": "Singsing",
+      "lname": "Psingsong",
+      "sex": "Female",
+      "age": 6,
+      "enrolled": false,
+      "id": 487
+    },
+    {
+      "fname": "Soysoy",
+      "lname": "Pasoysoy",
+      "sex": "Male",
+      "age": 2,
+      "enrolled": false,
+      "id": 99
+    },
+    {
+      "id": 298,
+      "fname": "Shaishai",
+      "lname": "Shayme",
+      "sex": "femal",
+      "age": 2,
+      "enrolled": false
+    }
+  ]
+}
